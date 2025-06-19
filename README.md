@@ -11,16 +11,16 @@ This is a data analysis project exploring Manchester City's match performance fr
 ## Visual Insights
 
 ### Goals Scored Per Season
-![Goals Scored](mc analysis screenshots/goals_scored_perseason.png)
+![Goals Scored](mc_analysis_screenshots/goals_scored_perseason.png)
 
 ### Goals Conceded per Season
-![Goals Conceded](mc analysis screenshots/mc_goals_conceded_perseason.png)
+![Goals Conceded](mc_analysis_screenshots/mc_goals_conceded_perseason.png)
 
 ### Goal Difference
-![Goal Difference](mc analysis screenshots/goal_difference_per_season.png)
+![Goal Difference](mc_analysis_screenshots/goal_difference_per_season.png)
 
 ### Match Results (Win/Draw/Loss)
-![Match Results](mc analysis screenshots/match_results_perseason.png)
+![Match Results](mc_analysis_screenshots/match_results_perseason.png)
 
 ## What This Project Covers
 - Filtering Manchester City matches from 1993 onward
